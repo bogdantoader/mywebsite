@@ -116,6 +116,7 @@ p {
   width: 8.5em;
   margin-top: 2em;
 }
+
 @media (min-width: 768px) {
 	.sidebar {
 		top: 0;
