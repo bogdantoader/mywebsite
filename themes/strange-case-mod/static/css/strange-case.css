@@ -93,6 +93,9 @@ p {
   width: 8em;
   margin-left: 0em;
 }
+.sidebar .img-circle {
+  border-radius: 10%;
+}
 .sidebar .sidebar-menus {
 	padding-left: 0;
 	margin-left: 0;
@@ -115,6 +118,9 @@ p {
 .sidebar .sidebar-infomm-logo {
   width: 8.5em;
   margin-top: 2em;
+}
+.sidebar .btn {
+  
 }
 
 @media (min-width: 768px) {
