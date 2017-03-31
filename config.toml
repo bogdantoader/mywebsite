@@ -1,0 +1,54 @@
+#baseUrl = "https://people.maths.ox.ac.uk/toader/"
+baseUrl = "www.mysite.com"
+title = "Bogdan Toader"
+author = "Bogdan Toader"
+copyright = "Your Copyright"
+canonifyurls = true
+paginate = 5
+
+googleAnalytics = ""
+
+theme = "strange-case"
+
+[params]
+    colorScheme = "scheme-bogdan"
+    DateFormat = "2 Jan 2006"
+    description = "University of Oxford"
+    #sidebarDescription = "This is my blog about content"
+    sidebarFreeText = "Mathematics DPhil Student"
+    piwikSiteID = ""
+    piwikURL = ""
+
+
+[[menu.main]]
+    name = "About"
+    url =  "/about"
+    weight = 1
+
+[[menu.main]]
+    name = "Research"
+    url =  "/research"
+    weight = 2
+
+[[menu.main]]
+    name = "Teaching"
+    url = "/teaching"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact"
+    weight = 4
+
+
+#[[menu.main]]
+#    name = "Hugo"
+#    post = "<span class='glyphicon glyphicon-fire'></span>"
+#    url = "http://gohugo.io"
+#    weight = 99
+#
+#[[menu.main]]
+#    name = "Bootstrap"
+#    post = "<span class='glyphicon glyphicon-ok'></span>"
+#    url = "http://getbootstrap.com"
+#    weight = 100
