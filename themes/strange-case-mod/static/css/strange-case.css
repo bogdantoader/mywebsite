@@ -38,7 +38,7 @@ p {
 
 
 .content {
-	padding-left: 5em;
+	padding-left: 6em;
 }
 @media (max-width: 768px) {
 	.content {
@@ -78,8 +78,8 @@ p {
 
 
 .sidebar {
-	padding: 2em;
-	font-size: 1.3em;
+	padding: 2.9em;
+	font-size: 1.2em;
 	text-align: left;
 }
 .sidebar .sidebar-content {
@@ -87,14 +87,14 @@ p {
 	margin:0 auto;
 }
 .sidebar .sidebar-freetext {
-	margin-top: 1.5em;
+	margin-top: 1em;
 }
 .sidebar .sidebar-image {
-  width: 8em;
+  width: 10em;
   margin-left: 0em;
 }
 .sidebar .img-circle {
-  border-radius: 10%;
+  border-radius: 4%;
 }
 .sidebar .sidebar-menus {
 	padding-left: 0;
@@ -152,7 +152,7 @@ p {
 	}
 }
 .sidebar h1 {
-	font-size: 1.8em;
+	font-size: 1.7em;
 	font-weight: bold;
 	margin-bottom: 0;
 }
